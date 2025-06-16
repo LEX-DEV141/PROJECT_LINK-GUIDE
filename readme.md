@@ -114,17 +114,17 @@ Pracolab adalah program pelatihan intensif per role sebelum bergabung dalam proy
 #### 🗓️ Timeline Pracolab (4-6 minggu)
 
 ```
-Week 1-2: Fundamentals
+Mounth 1-2: Fundamentals
 ├── Role Introduction & Responsibilities
 ├── Tools & Environment Setup
 └── Basic Skills Training
 
-Week 3-4: Intermediate Skills
+Mounth 3-4: Intermediate Skills
 ├── Role-Specific Deep Dive
 ├── Best Practices & Standards
 └── Mini Project Implementation
 
-Week 5-6: Advanced & Integration
+Month 5-6: Advanced & Integration
 ├── Advanced Techniques
 ├── Cross-Role Collaboration
 └── Final Assessment & Certification
@@ -133,29 +133,29 @@ Week 5-6: Advanced & Integration
 ### 📋 Pracolab per Role
 
 #### 💻 Frontend Developer
-- **Week 1-2**: HTML5, CSS3, JavaScript ES6+, Git basics
-- **Week 3-4**: React/Vue.js, State Management, API Integration
-- **Week 5-6**: Testing, Performance, Deployment
+- **Mounth 1-2**: HTML5, CSS3, JavaScript ES6+, Git basics
+- **Mounth 3-4**: React/Vue.js, State Management, API Integration
+- **Mounth 5-6**: Testing, Performance, Deployment
 
 #### ⚙️ Backend Developer
-- **Week 1-2**: Programming language (Node.js/Python/Java), Database basics
-- **Week 3-4**: RESTful API, Authentication, Database design
-- **Week 5-6**: Testing, Security, DevOps basics
+- **Mounth 1-2**: Programming language (Node.js/Python/Java), Database basics
+- **Mounth 3-4**: RESTful API, Authentication, Database design
+- **Mounth 5-6**: Testing, Security, DevOps basics
 
 #### 🧪 Quality Assurance
-- **Week 1-2**: Testing fundamentals, Test planning, Bug reporting
-- **Week 3-4**: Automated testing, Test frameworks
-- **Week 5-6**: Performance testing, CI/CD integration
+- **Mounth 1-2**: Testing fundamentals, Test planning, Bug reporting
+- **Mounth 3-4**: Automated testing, Test frameworks
+- **Mounth 5-6**: Performance testing, CI/CD integration
 
 #### 🎨 UI/UX Designer
-- **Week 1-2**: Design principles, Figma/Adobe XD, User research
-- **Week 3-4**: Wireframing, Prototyping, Design systems
-- **Week 5-6**: Usability testing, Handoff process
+- **Mounth 1-2**: Design principles, Figma/Adobe XD, User research
+- **Mounth 3-4**: Wireframing, Prototyping, Design systems
+- **Mounth 5-6**: Usability testing, Handoff process
 
 #### 📊 Project Manager
-- **Week 1-2**: Agile/Scrum fundamentals, Project planning
-- **Week 3-4**: Team management, Risk management, Communication
-- **Week 5-6**: Metrics & reporting, Stakeholder management
+- **Mounth 1-2**: Agile/Scrum fundamentals, Project planning
+- **Mounth 3-4**: Team management, Risk management, Communication
+- **Mounth 5-6**: Metrics & reporting, Stakeholder management
 
 ### 🏆 Sertifikasi Pracolab
 
