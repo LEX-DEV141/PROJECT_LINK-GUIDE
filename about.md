@@ -16,4 +16,6 @@
 ### 🔗 Visi Jangka Panjang
 Membangun ekosistem komunitas developer Indonesia yang profesional, suportif, dan terhubung dengan industri serta peluang nyata.
 
-    PROJECT_LINK adalah project open source dimana sebagai media yang menjembati dan mempertemukan orang-orang memiliki minat yg sama tanpa memperdulikan gender,usia, dan background masing masing selama punya keinginan untuk belajar dan komitmen, kami sangat menyambut siapa pun yang ingin bergabung.
+    PROJECT_LINK adalah project open source dimana sebagai media yang menjembati dan mempertemukan orang-orang memiliki minat yg sama 
+    tanpa memperdulikan gender,usia, dan background masing masing selama punya keinginan untuk belajar dan komitmen, kami sangat menyambut 
+    siapa pun yang ingin bergabung.
