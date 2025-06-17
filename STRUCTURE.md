@@ -1,19 +1,20 @@
 # Struktur Komunitas & Jalur Peran
 
 ## 👥 Struktur Organisasi Project-Link
-
-   -Project-Link Community
-   ├── 👑 Core Team
-   │ ├── Community Lead
-   │ ├── Technical Lead
-   │ └── Operations Lead
-   ├── 🎖️ Mentor / Expert
-   │ ├── Senior Mentor
-   │ └── Mentor
-   └── 🎓 Kadet
-   ├── Beginner
-   ├── Intermediate
-   └── Advanced
+```
+🏛️ Project-Link Community
+├── 👑 Core Team
+│   ├── Community Lead
+│   ├── Technical Lead
+│   └── Operations Lead
+├── 🎖️ Mentor (Expert Level)
+│   ├── Senior Mentor
+│   └── Mentor
+└── 🎓 Kadet (Learner Level)
+    ├── Advanced Kadet
+    ├── Intermediate Kadet
+    └── Beginner Kadet
+```
 
 ## 🛤️ Jalur Pembelajaran Peran (Role Path)
 
