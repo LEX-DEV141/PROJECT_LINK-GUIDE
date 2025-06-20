@@ -449,13 +449,13 @@ Setiap tim proyek terdiri dari:
 
 ```
 📁 project-link/
-├── 📋 project-link-guide (Repository ini)
-├── 🎓 pracolab-materials
-│   ├── frontend-track/
-│   ├── backend-track/
-│   ├── qa-track/
-│   ├── uiux-track/
-│   └── pm-track/
+├── 📋 project-link (Repository ini)
+├── 🎓 Project-colab_Exercise (pracolab-materials)
+│    ├── frontend-track/
+│    ├── backend-track/
+│    ├── qa-track/
+│    ├── uiux-track/
+│    └── pm-track/
 ├── 🚀 project-templates
 │   ├── starter-project-template/
 │   ├── professional-project-template/
