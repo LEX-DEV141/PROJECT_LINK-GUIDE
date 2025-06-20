@@ -133,29 +133,29 @@ Month 5-6: Advanced & Integration
 ### 📋 Pracolab per Role
 
 #### 💻 Frontend Developer
-- **Mounth 1-2**: HTML5, CSS3, JavaScript ES6+, Git basics
-- **Mounth 3-4**: React/Vue.js, State Management, API Integration
-- **Mounth 5-6**: Testing, Performance, Deployment
+- **week 1-2**: HTML5, CSS3, JavaScript ES6+, Git basics
+- **week 3-6**: React/Vue.js, State Management, API Integration
+- **week 6-10**: Testing, Performance, Deployment
 
 #### ⚙️ Backend Developer
-- **Mounth 1-2**: Programming language (Node.js/Python/Java), Database basics
-- **Mounth 3-4**: RESTful API, Authentication, Database design
-- **Mounth 5-6**: Testing, Security, DevOps basics
+- **week 1-2**: Programming language (Node.js/Python/Java), Database basics
+- **week 3-6**: RESTful API, Authentication, Database design
+- **week 6-10**: Testing, Security, DevOps basics
 
 #### 🧪 Quality Assurance
-- **Mounth 1-2**: Testing fundamentals, Test planning, Bug reporting
-- **Mounth 3-4**: Automated testing, Test frameworks
-- **Mounth 5-6**: Performance testing, CI/CD integration
+- **week 1-2**: Testing fundamentals, Test planning, Bug reporting
+- **week 3-6**: Automated testing, Test frameworks
+- **week 6-10**: Performance testing, CI/CD integration
 
 #### 🎨 UI/UX Designer
-- **Mounth 1-2**: Design principles, Figma/Adobe XD, User research
-- **Mounth 3-4**: Wireframing, Prototyping, Design systems
-- **Mounth 5-6**: Usability testing, Handoff process
+- **week 1-2**: Design principles, Figma/Adobe XD, User research
+- **week 3-6**: Wireframing, Prototyping, Design systems
+- **week 6-10**: Usability testing, Handoff process
 
 #### 📊 Project Manager
-- **Mounth 1-2**: Agile/Scrum fundamentals, Project planning
-- **Mounth 3-4**: Team management, Risk management, Communication
-- **Mounth 5-6**: Metrics & reporting, Stakeholder management
+- **week 1-2**: Agile/Scrum fundamentals, Project planning
+- **week 3-6**: Team management, Risk management, Communication
+- **week 6-10**: Metrics & reporting, Stakeholder management
 
 ### 🏆 Sertifikasi Pracolab
 
@@ -559,7 +559,7 @@ Yang kami butuhkan dari Anda:
 A: Tidak! Project-Link adalah komunitas gratis yang bertujuan untuk demokratisasi akses pembelajaran programming.
 
 **Q: Berapa lama waktu yang dibutuhkan untuk menyelesaikan pracolab?**
-A: Pracolab berlangsung 4-6 minggu tergantung role dan pace belajar individual. Kami flexible dengan schedule member.
+A: Pracolab berlangsung 4-8 minggu tergantung role dan pace belajar individual. Kami flexible dengan schedule member.
 
 **Q: Apakah saya harus punya pengalaman programming sebelumnya?**
 A: Basic programming knowledge direkomendasikan, tapi kami welcome absolute beginners dengan motivasi tinggi untuk belajar.
